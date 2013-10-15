@@ -7,7 +7,7 @@ i = 1
 collection.find.each do |doc|
   result += "<tr>\n"
   # result += "<td class=\"student\">#{doc['student']}</td>\n"
-  result += "<td class=\"student\">#{i}</td>\n"
+  # result += "<td class=\"student\">#{i}</td>\n"
   result += "<td >#{doc['responses'][0]}</td>\n\n"
   result += "<td>#{doc['responses'][1]}</td>\n\n"
   result += "<td>#{doc['responses'][2]}</td>\n\n"
