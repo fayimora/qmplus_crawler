@@ -1,4 +1,5 @@
-A web crawler for QM+
+A web crawler for QM+. Please contact me if you need help adapting this for something else
+
 Copyright (C) 2013 Fayimora Femi-Balogun
 
 Permission is hereby granted, free of charge, to any person obtaining
